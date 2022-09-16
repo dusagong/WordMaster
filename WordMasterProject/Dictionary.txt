@@ -1,3 +1,4 @@
 3|superintendent|관리자, 감독관
 2|extraordinary|엄청난
 1|apple|사과
+2|grape|포도
