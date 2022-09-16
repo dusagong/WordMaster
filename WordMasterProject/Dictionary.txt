@@ -5,3 +5,4 @@
 1|adult|어른
 1|love|사랑
 1|pain|고통
+1|wait|기다리다
