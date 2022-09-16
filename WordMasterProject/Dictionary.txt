@@ -7,3 +7,4 @@
 1|pain|고통
 1|wait|기다리다
 2|sacrifice|희생하다
+1|door|문
