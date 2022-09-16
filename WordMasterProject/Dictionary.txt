@@ -6,3 +6,4 @@
 1|love|사랑
 1|pain|고통
 1|wait|기다리다
+2|sacrifice|희생하다
