@@ -2,3 +2,4 @@
 2|extraordinary|엄청난
 1|apple|사과
 2|grape|포도
+1|adult|어른
